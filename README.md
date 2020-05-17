@@ -41,6 +41,12 @@ The dataset is taken directly from John Hopkins University Web Portal.
 
 
 5. Pie Charts
+
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/p1.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/p2.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/p3.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/p4.PNG)
+
 6. Bar Charts
 
 
