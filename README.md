@@ -17,7 +17,7 @@ The dataset is taken directly from John Hopkins University Web Portal.
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/China2.PNG)
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/China3.PNG)
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/China4.PNG)
-![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/India1.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/Inida1.PNG)
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/India2.PNG)
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/India3.PNG)
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/India4.PNG)
