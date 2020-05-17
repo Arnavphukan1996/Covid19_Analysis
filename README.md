@@ -9,4 +9,4 @@ The dataset is taken directly from John Hopkins University Web Portal.
 * Pie Charts
 * Bar Charts
 
-![]('C:/Users/Arnav Phukan/Pictures')
+![]('C:/Users/Arnav%20Phukan/Pictures')
