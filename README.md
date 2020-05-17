@@ -49,4 +49,8 @@ The dataset is taken directly from John Hopkins University Web Portal.
 
 6. Bar Charts
 
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/b1.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/b2.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/b3.PNG)
+
 
