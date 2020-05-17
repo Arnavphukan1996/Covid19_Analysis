@@ -5,7 +5,7 @@ The dataset is taken directly from John Hopkins University.
 1. Exploring Global Coronavirus Cases
 ### Graphing the number of confirmed cases, active cases, deaths, recoveries, mortality rate, and recovery rate.
 
-![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/C1.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/Image/C1.PNG)
 
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/G1.PNG)
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/G2.PNG)
