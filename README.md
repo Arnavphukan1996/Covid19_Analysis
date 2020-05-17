@@ -31,6 +31,9 @@ The dataset is taken directly from John Hopkins University Web Portal.
 ![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/Usa4.PNG)
 
 3. Worldwide Confirmed Cases Prediction
+
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/W1.PNG)
+![](https://github.com/Arnavphukan1996/Covid19_Analysis/blob/master/W2.PNG)
 4. Data Table
 5. Pie Charts
 6. Bar Charts
