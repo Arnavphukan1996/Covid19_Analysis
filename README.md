@@ -8,3 +8,5 @@ The dataset is taken directly from John Hopkins University Web Portal.
 * Data Table
 * Pie Charts
 * Bar Charts
+
+![]('C:/Users/Arnav Phukan/Pictures')
